@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FlipkartSuite">
+  <test name="HPComputers">
+    <classes>
+      <class name="com.flipkart.computerAutomation.AppTest"/>
+    </classes>
+  </test> <!-- HPComputers -->
+</suite> <!-- FlipkartSuite -->
