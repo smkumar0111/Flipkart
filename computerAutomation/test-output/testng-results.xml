@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38745" started-at="2017-09-23T14:15:33Z" finished-at="2017-09-23T14:16:11Z">
+  <suite name="Default suite" duration-ms="99279" started-at="2017-09-24T14:14:46Z" finished-at="2017-09-24T14:16:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38745" started-at="2017-09-23T14:15:33Z" finished-at="2017-09-23T14:16:11Z">
+    <test name="Default test" duration-ms="99279" started-at="2017-09-24T14:14:46Z" finished-at="2017-09-24T14:16:26Z">
       <class name="com.flipkart.computerAutomation.flipkartApp">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.flipkart.computerAutomation.flipkartApp@7a168f39]" name="launchBrowser" is-config="true" duration-ms="11300" started-at="2017-09-23T19:45:33Z" finished-at="2017-09-23T19:45:44Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.flipkart.computerAutomation.flipkartApp@46b4ece3]" name="launchBrowser" is-config="true" duration-ms="13096" started-at="2017-09-24T19:44:46Z" finished-at="2017-09-24T19:45:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="searchComputers()[pri:0, instance:com.flipkart.computerAutomation.flipkartApp@7a168f39]" name="searchComputers" duration-ms="2279" started-at="2017-09-23T19:45:44Z" finished-at="2017-09-23T19:45:46Z">
+        <test-method status="PASS" signature="searchComputers()[pri:0, instance:com.flipkart.computerAutomation.flipkartApp@46b4ece3]" name="searchComputers" duration-ms="2175" started-at="2017-09-24T19:45:00Z" finished-at="2017-09-24T19:45:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchComputers -->
-        <test-method status="PASS" signature="searchHPComputers()[pri:1, instance:com.flipkart.computerAutomation.flipkartApp@7a168f39]" name="searchHPComputers" duration-ms="18904" started-at="2017-09-23T19:45:46Z" finished-at="2017-09-23T19:46:05Z">
+        <test-method status="PASS" signature="searchHPComputers()[pri:1, instance:com.flipkart.computerAutomation.flipkartApp@46b4ece3]" name="searchHPComputers" duration-ms="29624" started-at="2017-09-24T19:45:02Z" finished-at="2017-09-24T19:45:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchHPComputers -->
-        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.flipkart.computerAutomation.flipkartApp@7a168f39]" name="addToCart" duration-ms="2800" started-at="2017-09-23T19:46:05Z" finished-at="2017-09-23T19:46:08Z">
+        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.flipkart.computerAutomation.flipkartApp@46b4ece3]" name="addToCart" duration-ms="51101" started-at="2017-09-24T19:45:31Z" finished-at="2017-09-24T19:46:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCart -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.flipkart.computerAutomation.flipkartApp@7a168f39]" name="closeBrowser" is-config="true" duration-ms="3426" started-at="2017-09-23T19:46:08Z" finished-at="2017-09-23T19:46:11Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.flipkart.computerAutomation.flipkartApp@46b4ece3]" name="closeBrowser" is-config="true" duration-ms="3240" started-at="2017-09-24T19:46:22Z" finished-at="2017-09-24T19:46:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
